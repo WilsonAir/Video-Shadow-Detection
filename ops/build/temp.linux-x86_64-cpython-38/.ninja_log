@@ -1,0 +1,4 @@
+# ninja log v5
+0	2712	1696685792443578800	/media/wilson/SD_Data/DE/image_segmentation/ViT-Adapter-main/detection/ops/build/temp.linux-x86_64-cpython-38/media/wilson/SD_Data/DE/image_segmentation/ViT-Adapter-main/detection/ops/src/cpu/ms_deform_attn_cpu.o	f148e0dc1723bd6c
+0	10114	1696685799815618000	/media/wilson/SD_Data/DE/image_segmentation/ViT-Adapter-main/detection/ops/build/temp.linux-x86_64-cpython-38/media/wilson/SD_Data/DE/image_segmentation/ViT-Adapter-main/detection/ops/src/cuda/ms_deform_attn_cuda.o	7d0d9f136a14c944
+0	18067	1696685807788809800	/media/wilson/SD_Data/DE/image_segmentation/ViT-Adapter-main/detection/ops/build/temp.linux-x86_64-cpython-38/media/wilson/SD_Data/DE/image_segmentation/ViT-Adapter-main/detection/ops/src/vision.o	4e492b2cd10f00e9
