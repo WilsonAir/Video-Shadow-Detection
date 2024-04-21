@@ -34,6 +34,18 @@ cd ops & sh make.sh # compile deformable attention
 
 Preparing ViSha Dataset as the structure of ADE20K according to the [guidelines](https://github.com/open-mmlab/mmsegmentation/blob/master/docs/en/dataset_prepare.md#prepare-datasets) in MMSegmentation.
 
+### Data structure
+
+Visha_release
+
+-- train\
+annotations\
+body_detail\
+images\
+-- test
+
+-- val
+
 ## Pretraining Sources
 
 | Name          | Year | Type       | Data         | Repo                                                                                                    | Paper                                                                                                                                                                           |

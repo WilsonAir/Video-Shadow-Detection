@@ -1,5 +1,5 @@
 dataset_type = 'VishaDatasetVideoLabelDecoupleTestMulti'
-data_root = '/media/wilson/WD_Data/DE/Data/ViSha_release'
+data_root = 'Your path to ViSha_release'
 
 img_norm_cfg = dict(
     mean=[123.675, 116.28, 103.53], std=[58.395, 57.12, 57.375], to_rgb=True)
