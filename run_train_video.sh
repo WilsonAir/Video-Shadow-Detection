@@ -1,0 +1,1 @@
+python train.py configs/visha/video_perpixel_label_decouple_plus_beitv2_adapter_large_896_80k_visha_ms_test_multi_frame.py --load-from pretrained/mask2former_beitv2_adapter_large_896_80k_cocostuff164k.pth ----work-dir work_dirs
