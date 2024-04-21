@@ -1,1 +1,1 @@
-python image_multi_frame_demo.py work_dirs/video_perpixel_decouple_plus_beitv2_adapter_large_896_80k_visha_ms_test_multi_frame.py work_dirs/best_mIoU_iter_6000.pth /media/wilson/WD_Data/DE/Data/ViSha_release/test/images --palette VishaDatasetVideo --out work_dirs/demo_multi_frame
+python image_multi_frame_demo.py work_dirs/video_perpixel_decouple_plus_beitv2_adapter_large_896_80k_visha_ms_test_multi_frame.py work_dirs/xxx.pth ViSha_release/test/images --palette VishaDatasetVideo --out work_dirs/demo_multi_frame
