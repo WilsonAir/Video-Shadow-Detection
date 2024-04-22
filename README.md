@@ -32,7 +32,11 @@ cd ops & sh make.sh # compile deformable attention
 
 ## Data Preparation
 
+Download ViSha dataset from: https://erasernut.github.io/ViSha.html
+
 Preparing ViSha Dataset as the structure of ADE20K according to the [guidelines](https://github.com/open-mmlab/mmsegmentation/blob/master/docs/en/dataset_prepare.md#prepare-datasets) in MMSegmentation.
+
+
 
 ### Data structure
 
@@ -42,9 +46,15 @@ Visha_release
 annotations\
 body_detail\
 images\
--- test
+-- test\
+...\
+-- val\
+...
 
--- val
+The body detail map can be process by 
+```shell
+python tools/body_detail_map_process.py
+```
 
 ## Pretraining Sources
 
